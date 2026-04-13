@@ -1,5 +1,7 @@
 # AI Personal Finance Assistant
 
+Built using Retrieval-Augmented Generation (RAG) with local LLMs.
+
 This project is a simple AI assistant that answers questions from the  
 **Zerodha Varsity – Personal Finance for Beginners** YouTube playlist.
 
@@ -7,6 +9,13 @@ This project is a simple AI assistant that answers questions from the
 
 Instead of searching through videos manually, you can just ask a question  
 and the app will guide you to the exact part of the video where the concept is explained.
+
+---
+
+##  Preview
+![App Screenshot](assets/app1.png)
+
+![App Screenshot](assets/app2.png)
 
 ---
 
