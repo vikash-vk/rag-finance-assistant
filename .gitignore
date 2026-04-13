@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc 
+
+videos/
+audios/
+
+jsons/
+jsons_merged/
